@@ -1,5 +1,7 @@
 # Boas-vindas ao exercício Trybe RPG Battle
 
+## Resultado
+![](https://github.com/kinishii1/exercise-trybe-rpg-battle-ts-tests/blob/main/Capturar.PNG)
 ---
 
 # Orientações
